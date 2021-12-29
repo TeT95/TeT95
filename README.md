@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Albuquerque</h1>
-<h3 align="center">A passionate full-stack developer from Brazil</h3>
+<h3 align="center">A full-stack developer from Brazil</h3>
 
 <p align="left"> <a href="https://twitter.com/tetz_x" target="blank"><img src="https://img.shields.io/twitter/follow/tetz_x?logo=twitter&style=for-the-badge" alt="tetz_x" /></a> </p>
 
