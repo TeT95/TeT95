@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/tetz_x" target="blank"><img src="https://img.shields.io/twitter/follow/tetz_x?logo=twitter&style=for-the-badge" alt="tetz_x" /></a> </p>
 
-- 🔭 I’m currently working on [Ustore](https://ustore.com.br/)
+- 🔭 I’m currently working on IBM
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
