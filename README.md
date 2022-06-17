@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack developer from Brazil</h3>
 
 
-- 🔭 I’m currently working on IBM
+- 🔭 I’m currently working on Ustore
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
